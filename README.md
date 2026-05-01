@@ -1,54 +1,68 @@
 # ArchePersona
 
-A personality operating system for LLMs, enabling persistent identity, memory, and behavior across interactions.
+Don’t show the engine. Let them feel the torque.
 
-## Overview
+ArchePersona is a behavioral operating system for LLMs.
 
-Most LLM systems are stateless — every interaction resets context.
+Most AI resets every time you talk to it.
 
-ArchePersona introduces a structured approach to:
+This doesn’t.
 
-- persistent identity
-- stateful memory
-- behavior over time
+---
 
-The goal is to move from prompt-response systems to systems that maintain continuity across interactions.
+## What it does
 
-## Core Concepts
+Same input. Different result.
 
-### Identity Layer
+Because the system:
+- remembers what happened
+- tracks how things are going
+- adjusts how it responds over time
 
-Defines stable traits, boundaries, and behavioral tendencies.
+It doesn’t just answer.
 
-### State Layer
+It **stays in the conversation**.
 
-Tracks evolving context across interactions.
+---
 
-### Behavior Layer
+## Why it matters
 
-Produces responses based on identity and state, not just the latest input.
+Most AI:
+> prompt → response → reset
+
+ArchePersona:
+> input → context → behavior → continuity
+
+That difference is immediate.
+
+You can feel it.
+
+---
 
 ## Status
 
-Early prototype. Core behavior divergence has been demonstrated in controlled conditions.
+Working prototype.
 
-## Goals
+Behavioral continuity has been demonstrated in side-by-side comparisons.
 
-- Formalize architecture for persistent LLM systems
-- Build scalable state management
-- Enable consistent long-term interaction patterns
-- Validate behavior across extended sessions
+---
 
-## Next Steps
+## Direction
 
-- Expand prototype into a modular system
-- Integrate with production LLM APIs
-- Build repeatable test scenarios
-- Document behavior changes over time
+- Expand into modular architecture
+- Integrate with production LLMs
+- Add learning + reflex layers
+- Extend beyond text (vision, audio, physical systems)
+
+---
 
 ## Looking For
 
-Currently seeking a technical co-founder interested in AI systems, stateful architecture, and long-term behavior modeling.
+Technical co-founder.
+
+Someone who sees this and knows how to build it without flattening it.
+
+---
 
 ## License
 
